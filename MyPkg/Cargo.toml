@@ -1,0 +1,11 @@
+[package]
+name = "MyPkg"
+version = "0.1.0"
+edition = "2021"
+description = "A brief description of my package"
+license = "MIT"
+repository = "https://github.com/yourusername/MyPkg"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
