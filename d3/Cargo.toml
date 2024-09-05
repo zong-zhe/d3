@@ -1,0 +1,9 @@
+[package]
+name = "d3"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+d1 = { git = "https://github.com/zong-zhe/d1", rev = "3a2ada5eacb2b13a41492f71fa53c33b14f15781", version = "0.1.0" }
